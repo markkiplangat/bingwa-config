@@ -5,7 +5,7 @@
     "https://your-standby-deployment.example.com"
   ],
   "flags": {
-    "useBlockingStkDefault": false,
+    "blocking_stk": false,
     "stkPollIntervalSeconds": 6,
     "stkPollTimeoutSeconds": 120
   },
