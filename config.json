@@ -1,0 +1,13 @@
+{
+  "backendUrls": [
+    "https://bingwa-stk-backend-v2.onrender.com",
+    "https://bingwa-stk-backend-secondary.onrender.com",
+    "https://your-standby-deployment.example.com"
+  ],
+  "flags": {
+    "useBlockingStkDefault": false,
+    "stkPollIntervalSeconds": 6,
+    "stkPollTimeoutSeconds": 120
+  },
+  "ttlSeconds": 300
+}
